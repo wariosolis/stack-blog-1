@@ -44,6 +44,10 @@ Finalmente iniciar servidor de desarrollo mediante el comando `"runserver"`:
 
 ```
 python manage.py runserver
+
+O 
+
+python manage.py runserver 127.0.0.1:8000
 ```
 
 Si no hay nada mal con su configuración, el servidor de desarrollador Django empezar, lo que le permite visitar `127.0.0.1:8000` en tu navegador y ver la (incompleta) Índice foro.
